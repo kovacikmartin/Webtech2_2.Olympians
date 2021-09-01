@@ -1,0 +1,62 @@
+body
+{
+    background-color: rgb(233, 238, 245);
+    margin: auto;
+}
+
+h3
+{
+    padding: 20px 0px;
+    text-align: center;
+    color:midnightblue;
+    background-color: #77D5D5;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.formContainer
+{
+    width: 40%;
+    margin: auto;
+}
+
+label
+{
+    font-weight: bold;
+}
+
+span
+{
+    color: tomato;
+}
+
+.btn
+{
+    background-color: #77D5D5;
+    color: midnightblue;
+    font-weight: bold;
+    outline: none;
+    border: none;
+    padding: 12px;
+}
+
+.btn:hover
+{
+    text-decoration: none;
+    background-color: #77D5D5;
+    color: midnightblue;
+}
+
+footer
+{
+    text-align: center;
+    background-color: lightgray;
+    margin-top: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+footer span
+{
+    color: black;
+}
